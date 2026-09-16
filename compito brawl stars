@@ -1,0 +1,28 @@
+<head><title>Brawl Stars - Cosmo</title></head>
+<body>
+<h1>Nuovo Brawler - Cosmo</h1>
+<img src="cosmo.jpg" width="300px" alt="immagine di cosmo">
+<h2>Descrizione di Cosmo</h2>
+<p>Cosmo è il capo degli astronomi all'osservatorio dello starr park. Oltre a istruire i visitatori sui misteri <br>dell'universo, scruta costantemente le stelle in cerca di qualcosa...</p>
+<h2>COSMO</h2>
+<table>
+    <thead><tr><th>Salute</th><th>Velocità di movimento</th></tr></thead>
+    <tbody><tr><td>3400</td><td>NORMALE</td></tr></tbody>
+</table>
+<h2>ATTACCO</h2>
+<h2>BOTTE DA ORBI-TE</h2>
+<p>Cosmo spara 3 proiettili che orbitano in cerchio e che si distanziano l'uno dall'altro sempre di più, <br>a mano a mano che avanzano. Quando si spostano, aumentano costantemente di dimensione <br>e a causano danni via via maggiori.</p>
+<table>
+    <thead><tr><th>Danni</th><th>Portata</th><th>Velocità di ricarica</th></tr></thead>
+    <tbody><tr><td>1000</td><td>LUNGA</td><td>LENTA</td></tr></tbody>
+</table>
+<h2>SUPER</h2>
+<h2>FORZA GRAVITAZIONALE</h2>
+<p>Cosmo spara un magnete con un polo positivo che, attaccandosi a un nemico, <br>attirerò con grande efficacia i proiettili degli alleati</p>
+<table>
+    <thead><tr><th>Danni</th><th>Portata</th><th>Durata</th></tr></thead>
+    <tbody><tr><td>500</td><td>MOLTO LUNGA</td><td>6s</td></tr></tbody>
+</table>
+<h2>Qui sotto metterò un link di un video del brawler appena descritto.</h2>
+<a href="https://www.youtube.com/watch?v=CMLQftegjow"></a>
+</body>
